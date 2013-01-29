@@ -1,29 +1,27 @@
-#cards {
-  margin: 5px;
-  padding: 5px;
-}
-.card {
-  width: 60px;
-  height: 90px;
-  margin: 5px;
-  border: 2px dotted gray;
-}
-.select {
-  border: 2px solid black;
-}
-/*
-@media (min-width: 1200px) {
-
+body {
+  background-color: #44175b;
+  color: white;
 }
 
-@media (min-width: 768px) and (max-width: 979px) {
-
+h1 {
+  text-align: center;
 }
 
-@media (max-width: 767px) {
-
+#team1 {
+  float: left;
+  margin-left: 5%;
 }
 
-@media (max-width: 480px) {
+#team2 {
+  float: right;
+  margin-right: 5%;
+}
 
-}*/ 
+.name {
+  font-size: 40px; 
+}
+
+.score {
+  font-size: 40px;
+  text-align: center;
+}

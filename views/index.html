@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-  	<title>ProSet</title>
+  	<title>QBCrap</title>
 	<meta name="viewport" content="width=device-width, initial scale=1.0">
 
+        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
   	<link href="css/style.css" rel="stylesheet">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -12,29 +13,30 @@
 
   </head>
   <body>
-    <h2>Welcome to ProSet!</h2>
-    <div id="cards">
-      <canvas id="card0" class="card"></canvas>
-      <canvas id="card1" class="card"></canvas>
-      <canvas id="card2" class="card"></canvas>
-      <canvas id="card3" class="card"></canvas>
-      <canvas id="card4" class="card"></canvas>
-      <canvas id="card5" class="card"></canvas>
-      <canvas id="card6" class="card"></canvas>
+    <h1>FACULTY v STUDENT QUIZ BOWL</h1>
+    <hr />
+    <div id="scoreboard">
+    
+      <div id="team1">
+        <div id="name1" class="name">
+          FACULTY 
+        </div>
+        <br />
+        <div id="score1" class="score">
+          0 
+        </div>
+      </div>
+      <div id="team2">
+        <div id="name2" class="name">
+          LASA B 
+        </div>
+        <br />
+        <div id="score2" class="score">
+          0 
+        </div>
+      </div>
     </div>
-    <div id="toolbar">
-      <button id="submit">Submit</button>
-      <button id="newgame">New Game</button>
-      <button id="solve">Solve</button>
-    </div>
-    <br />
-    <div id="ans"></div>
-    <br />
-    <!-- a href = "/test" >Unit Tests</a -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script src="js/deck.js"></script>
-    <script src="js/card.js"></script>
-    <script src="js/game.js"></script>
-    <script src="js/ui.js"></script>
+    <script src="js/qb.js"></script>
   </body>
 </html>
