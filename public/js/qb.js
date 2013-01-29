@@ -1,5 +1,5 @@
-var scores = [0, 0];
-
+var scores = [0, 0],
+  , bteam = true;
 function handle(keyc){
   console.log(keyc);
   switch(keyc){
@@ -15,11 +15,9 @@ function handle(keyc){
     case 40:
       scores[1] -= 5;
       break;
-    case 79:
-      $('#name2').text('LASA B'); 
-      break;
     case 80:
-      $('#name2').text('LASA A'); 
+      $('#name2').text(bteam ? 'LASA A' : 'LASA B');
+      bteam = !bteam; 
       break;
   }
   update();
