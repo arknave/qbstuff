@@ -1,5 +1,5 @@
 var scores = [0, 0],
-  , bteam = true;
+  bteam = true;
 function handle(keyc){
   console.log(keyc);
   switch(keyc){
