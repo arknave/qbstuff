@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>ProSet</title>
+	<meta name="viewport" content="width=device-width, initial scale=1.0">
+
+  	<link href="css/style.css" rel="stylesheet">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+  <body>
+    <h2>Welcome to ProSet!</h2>
+    <div id="cards">
+      <canvas id="card0" class="card"></canvas>
+      <canvas id="card1" class="card"></canvas>
+      <canvas id="card2" class="card"></canvas>
+      <canvas id="card3" class="card"></canvas>
+      <canvas id="card4" class="card"></canvas>
+      <canvas id="card5" class="card"></canvas>
+      <canvas id="card6" class="card"></canvas>
+    </div>
+    <div id="toolbar">
+      <button id="submit">Submit</button>
+      <button id="newgame">New Game</button>
+      <button id="solve">Solve</button>
+    </div>
+    <br />
+    <div id="ans"></div>
+    <br />
+    <!-- a href = "/test" >Unit Tests</a -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="js/deck.js"></script>
+    <script src="js/card.js"></script>
+    <script src="js/game.js"></script>
+    <script src="js/ui.js"></script>
+  </body>
+</html>
