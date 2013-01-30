@@ -11,8 +11,8 @@ app.get('/', function(req, res){
   res.sendfile('views/index.html');
 });
 
-app.get('/test', function(req, res){
-  res.sendfile('views/tests.html');
+app.get('/json', function(req, res){
+  res.sendfile('out.txt');
 });
 
 var port = process.env.PORT || 8080;
