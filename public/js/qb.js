@@ -55,6 +55,7 @@ function handle(keyc){
     // Finish current tossup
     case 70:
       $('#text').text(text.join(' '));
+      n = text.length;
       break;
   }
   update();

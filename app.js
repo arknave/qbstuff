@@ -7,12 +7,12 @@ app.configure(function(){
   app.use(express.static(path.join(__dirname, 'public')));
 });
 
-app.get('/', function(req, res){
-  res.sendfile('views/index.html');
-});
 
 app.get('/json', function(req, res){
   res.sendfile('out.txt');
+});
+app.get('/', function(req, res){
+  res.sendfile('views/index.html');
 });
 
 var port = process.env.PORT || 8080;
