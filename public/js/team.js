@@ -2,6 +2,7 @@ Player = function(name){
   this.fif = 0;
   this.ten = 0;
   this.neg = 0;
+  this.name = name;
 }
 
 Player.prototype.getScore = function() {
