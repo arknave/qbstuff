@@ -5,6 +5,7 @@ body {
 
 h1 {
   text-align: center;
+  margin-top: 5%;
 }
 
 #team1 {
@@ -29,7 +30,8 @@ h1 {
 #text {
   clear: both;
   text-align: center;
-  width: 50%;
-  margin-top: 10px;
-  margin-left: 25%;
+  width: 60%;
+  margin-top: 10%;
+  margin-left: 20%;
+  font-size: x-large;
 }
