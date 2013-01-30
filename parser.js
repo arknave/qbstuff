@@ -10,11 +10,12 @@ function parse(filename){
       tup = {};
     for(line in lines){
       var cur = lines[line];
-      var tossup = cur.match(/^(\s)?T?B?-?(\d{1,2})\.?\s?([^\r\n]+)/i);
+      var tossup = cur.match(/^[\s]?T?B?-?(\d{1,2})\.?\s?([^\r\n]+)/i);
       var answer = cur.match(/^[\s\w]*ANSWER[\s\w]*:?\s?([^\r\n]+)$/i);
+      var bonus = cur.match(/Bonuses/i);
       if(tossup !== null && tossup !== undefined){
         if(tup['txt']){
-          fin[pos] = tup['txt'].trim();
+          fin[pos] = tup['txt'].substring(tup['txt'].indexOf('.')+1);
           pos++;
           tup = {};
         }
@@ -26,8 +27,11 @@ function parse(filename){
       if(intup){
         tup['txt'] = (tup['txt'] ? tup['txt'] : '') + ' ' + cur.trim();
       }
+      if(bonus !== null && bonus !== undefined){
+        break;
+      }
     }
-    fin[pos] = tup['txt'].trim();
+    fin[pos] = tup['txt'].substring(tup['txt'].indexOf('.')+1);
     fs.writeFile('out.txt', JSON.stringify(fin), function(err) {
       if(err){ throw err; }
       else {

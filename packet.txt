@@ -140,3 +140,202 @@ Corbaccio is convinced to disown Bonario by the protagonist’s assistant Mosca.
 and Subtle become entangled in a plan to fleece Sir Epicure Mammon by pretending to turn metal into gold. For 10
 points, name this English dramatist who wrote Bartholomew Fair, The Alchemist, and Volpone.
 ANSWER: Ben Jonson [or Benjamin Jonson]
+
+Early Autumn Collegiate Novice 3 (Fall 2012), Packet #1
+Written by Farrah Bilimoria, Nick Conder, Siddhant Dogra, Aaron Dos Remedios,
+Ian Drayer, Michael Garn, Alex Gerten, Abid Haseeb, Matthew Hill, Michael Hundley, Melanie Keating, Shan
+Kothari, Tanay Kothari, Ryan McLaren, Colin McNamara, Jacob O’Rourke, Zach Pace, Srijay Rajan, Ryan
+Rosenberg, Tony Song, Spencer Weinreich, Tristan Willey, Richard Yu, and Ben Zhang
+Edited by Andrew Hart
+Bonuses
+1. One of these artworks features Neptune riding a chariot that is pulled by two sea horses. For 10 points each:
+[10] The Trevi is an example of what kind of artwork, into which it is customary to toss coins?
+ANSWER: fountains [or fontana]
+[10] The Trevi Fountain is found in this European city, which contains an equestrian statue of Marcus Aurelius on its
+Capitoline Hill.
+ANSWER: Rome [or Roma]
+[10] Rome’s Fountain of the Four Rivers was created by this Baroque sculptor who depicted a nymph transforming into
+a tree in his Apollo and Daphne.
+ANSWER: Gian Lorenzo Bernini
+2. This character loses his fondness for milk, and instead takes to eating rotting scraps of food. For 10 points each:
+[10] Name this protagonist of The Metamorphosis, a traveling salesman who wakes up one morning as a massive
+insect-like creature.
+ANSWER: Gregor Samsa [accept either]
+[10] The Metamorphosis is by this Czech-born author of The Trial and “In the Penal Colony.”
+ANSWER: Franz Kafka
+[10] Kafka also wrote this novel, in which K., a land surveyor, is unable to access the mysterious title location.
+ANSWER: The Castle [or Das Schloss]
+3. These biological monomers are usually in a zwitterionic form. For 10 points each:
+[10] Name this class of molecules that make up proteins, examples of which include tryptophan, alanine, and lysine.
+ANSWER: amino acids
+[10] During translation, amino acids are polymerized by these complexes, which are formed in the nucleolus.
+ANSWER: ribosomes
+[10] Some proteins can become infectious agents. This is the name of those misfolded proteins that are responsible
+for mad cow disease and kuru.
+ANSWER: prions
+4. Pedro Álvares Cabral claimed this country as a colony. For 10 points each:
+[10] Name Portugal’s largest New World colony, which was led by two emperors named Pedro after independence.
+ANSWER: Brazil [accept Federative Republic of Brazil; or Empire of Brazil; or Viceroyalty of Brazil]
+[10] While Pedro II of Brazil was away, his daughter Isabel issued the “Golden Law,” which made Brazil the last
+New World nation to abolish this practice.
+ANSWER: slavery [accept word forms; or escravidão]
+[10] This Brazilian ordered the dissolution of Congress and ushered in a period of authoritarianism known as the
+Estado Novo, which lasted during his time as dictator and president from 1930 to 1954.
+ANSWER: Getúlio [Dornelles] Vargas
+
+5. Terry Eagleton wrote “an introduction” to this field of study. For 10 points each:
+[10] Harold Bloom, the author of The Western Canon, is a prominent modern scholar in what academic field?
+ANSWER: literary criticism [prompt on partial answer; accept word forms of either word]
+[10] This critic discussed “material correlatives” in the essay “Hamlet and His Problems” and wrote The Waste Land.
+ANSWER: T.S. Eliot [or Thomas Stearns Eliot]
+[10] This member of the Lake Poets and author of “Tintern Abbey” wrote that poetry should be the “spontaneous
+overflow of powerful feelings” in the preface to a work that he co-wrote, Lyrical Ballads.
+ANSWER: William Wordsworth
+6. Name the following about noncomputational math, for 10 points each.
+[10] In linear algebra, Cramer’s rule involves using these array-like structures to solve a system of equations. They
+have rows and columns.
+ANSWER: matrix [or matrices]
+[10] Cramer’s rule also involves finding this value for a given square matrix. It is often denoted by surrounding the
+matrix entries with a vertical bar on each side.
+ANSWER: determinant
+[10] To compute the determinant of a two-by-two matrix, this operation is performed to the entries in the a and c
+positions as well as those in the b and d positions before subtracting.
+ANSWER: multiplication [accept word forms]
+7. Botticelli painted this goddess with Mars to show the triumph of love over war. For 10 points each:
+[10] Name this goddess whom Botticelli depicted rising from a seashell in a painting showing her “birth.”
+ANSWER: Venus [or Venere; accept The Birth of Venus; or Mars and Venus; do not accept “Aphrodite”]
+[10] This Renaissance artist painted a nude woman reclining on a bed in his Venus of Urbino. A god riding a chariot
+drawn by cheetahs confronts a stranded princess in his painting Bacchus and Ariadne.
+ANSWER: Titian [or Tiziano Vecellio (accept either)]
+[10] An acclaimed Titian work in Venice depicts this figure being taken up into heaven in her “Assumption.”
+ANSWER: the Virgin Mary [accept either; or Maria; accept Assumption of the Virgin]
+8. Answer the following about the philosophy of discovering new knowledge, for 10 points each.
+[10] This technique can be employed as a procedure of inquiry into new knowledge. It consists of observation,
+experiment, and the formulation and modification of one or several hypotheses.
+ANSWER: scientific method [prompt on science or word forms; prompt on method or word forms]
+[10] The development of the scientific method is credited to this seventeenth-century English thinker who penned
+Novum Organum and is a foundational empiricist.
+ANSWER: Francis Bacon [do not accept “Roger Bacon”]
+[10] Philosopher of science Karl Popper believed that science must aspire to this criterion, under which a
+hypothesis is testable by empirical experiment.
+ANSWER: falsifiability [accept word forms]
+
+9. In this work, Bokanovsky’s Process and Podsnap’s Technique are used to regulate a population composed of
+classes like Alphas, Betas, and Deltas. For 10 points each:
+[10] Name this novel, set in a dystopian future based on the precepts of Henry Ford, in which John the Savage
+turns out to be the illegitimate son of the Director of the Central London Hatchery.
+ANSWER: Brave New World
+[10] People in Brave New World consume copious amounts of this drug, which provides hallucinogenic “holidays.”
+ANSWER: soma
+[10] This British author of Point Counter Point and Crome Yellow wrote Brave New World.
+ANSWER: Aldous [Leonard] Huxley
+10. Name some things associated with a common analytical technique, for 10 points each.
+[10] This technique, often employed in photoelectron spectroscopy, can use either a magnetic sector or time of
+flight to separate ions based on their mass-to-charge ratio.
+ANSWER: mass spectrometry [or mass spectroscopy; prompt on MS]
+[10] A mass spec sample is typically analyzed while it is in this phase of matter.
+ANSWER: a gas [accept word forms like gaseous]
+[10] The presence of this halogen, a red-brown liquid at room temperature, results in a 1 to 1 ratio of the intensity
+of the M+2 to M isotopic peaks.
+ANSWER: bromine [or Br]
+11. One work by this composer consists of the ambient sounds in the room for the title duration. For 10 points:
+[10] Name this American composer of 4’ 33” (four minutes, thirty-three seconds).
+ANSWER: John Cage [or John Milton Cage Jr.]
+[10] Cage has created a “prepared” version of this instrument to simulate the sound of percussion. Cage’s version
+includes such extra parts as hunks of wood, rubber, plastic, coins, nuts, screws, and bolts.
+ANSWER: piano [or pianoforte]
+[10] Cage wrote a piece for this instrument designated to be played as slow as possible. One ongoing performance
+of that work is currently being played on an instrument that is not yet fully built, and will end in 2640.
+ANSWER: pipe organ
+12. Among U.S. cities, only three—New York, Los Angeles, and Chicago—have more skyscrapers than this city.
+For 10 points each:
+[10] Name this U.S. city surrounded by the Koolau Mountains whose landmarks include the Iolani Palace, where a
+monarchy was based until 1893.
+ANSWER: Honolulu
+[10] Honolulu is located on this most populous of the Hawaiian Islands.
+ANSWER: Oahu
+[10] This second-largest Hawaiian island by area is home to Haleakala National Park and the cities of Wailuku and
+Lahaina.
+ANSWER: Maui
+
+13. While serving in this position, William Laud was beheaded for supporting Charles I. For 10 points:
+[10] Name this position held by the principal leader of the Church of England, currently held by Rowan Williams.
+ANSWER: Archbishop of Canterbury [prompt on partial answer]
+[10] This Archbishop of Canterbury asserted papal supremacy over Henry II, leading to his murder at Canterbury.
+ANSWER: Thomas [à] Becket [or St. Thomas of Canterbury; or Thomas of London; prompt on Thomas]
+[10] Henry II established the legal means to punish “criminous clerks” within the English church by issuing a set of
+“constitutions” named for this palace at which they were ordered.
+ANSWER: Clarendon [accept Constitutions of Clarendon]
+14. This god’s avatars included Rama and Krishna. For 10 points each:
+[10] Name this Hindu member of the Trimurti along with Brahma and Shiva.
+ANSWER: Vishnu
+[10] In the Vedas, Vishnu was associated with this god who drank a lot of Soma before his battle with Vritra.
+ANSWER: Indra [or Sakra]
+[10] In the Hindu Trimurti, Vishnu played this role, as opposed to Brahma’s role as “the creator.”
+ANSWER: the preserver [accept word forms like preservation]
+15. A majority of participants in this man’s study were willing to administer electric shocks. For 10 points each:
+[10] Name the Yale psychologist for whom the “obedience to authority” experiment is named.
+ANSWER: Stanley Milgram
+[10] Milgram was partly inspired by the trial of this Nazi who exemplified the “banality of evil” in Hannah Arendt’s
+book titled for him “in Jerusalem.”
+ANSWER: [Otto] Adolf Eichmann [accept Eichmann in Jerusalem; or Eichmann trial]
+[10] This experiment performed by Milgram found that the average number of times a package had to be forwarded
+for it to get from someone in Omaha or Wichita to someone in Boston was around six.
+ANSWER: small world experiment
+16. Locations crucial to this battle include Cemetery Hill and Little Round Top, and its third day witnessed Pickett’s
+Charge. For 10 points each:
+[10] Name this 1863 American Civil War battle, fought in Pennsylvania.
+ANSWER: The Battle of Gettysburg
+[10] The Union forces were commanded at Gettysburg by this general who failed to pursue the retreating army.
+ANSWER: George Gordon Meade
+[10] Prior to Gettysburg, Meade replaced this Union general who lost at Chancellorsville and shied away from
+pursuing Lee. His name is probably not the actual source for a slang term for prostitutes.
+ANSWER: Joseph Hooker
+17. The main character of this work kills his adopted son Ikemefuna. For 10 points each:
+[10] Name this novel, set in colonial Nigeria, which features the warrior Okonkwo.
+ANSWER: Things Fall Apart
+[10] Okonkwo’s son, Nwoye, takes the name Isaac after undergoing this process, guided by Mr. Brown.
+ANSWER: converting to Christianity [accept equivalents; prompt on converting or word forms]
+[10] Things Fall Apart joins No Longer At Ease and Arrow of God in this Nigerian author’s “Africa Trilogy.”
+ANSWER: Chinua Achebe [or Albert Chinualomogu Achebe]
+
+18. Name the following from the illustrious science career of Albert Einstein, for 10 points each.
+[10] Einstein formulated this equation, which represents mass-energy equivalence and can be used to calculate the
+energy released in a nuclear reaction.
+ANSWER: e = mc2 (“e equals m c squared”)
+[10] E = mc2 can be derived using the principles of this theory, which incorporates the idea that the speed of light is
+the same in all inertial reference frames and is contrasted with a similar “general” theory.
+ANSWER: special relativity [prompt on partial answer]
+[10] Einstein used the principles of diffusion to describe this random motion of particles in a fluid and determine
+Avogadro’s constant.
+ANSWER: Brownian motion
+19. The Committee of Public Safety ordered the execution of many Girondins during this time. For 10 points each:
+[10] Name this violent period during the French Revolution during which Maxmilien Robespierre oversaw the use
+of the guillotine on Louis XVI and Marie Antoinette.
+ANSWER: the Reign of Terror [or the Terror; or la Terreur]
+[10] France’s National Convention ended the Reign of Terror by ordering Robespierre and other leaders put to
+death in a “reaction” named for this month on the French calendar.
+ANSWER: Thermidor [accept Thermidorian Reaction]
+[10] This ironically named body served as the de facto French government during the Reign of Terror, during which
+Robespierre led it and the “Angel of Death,” Saint-Just, served as a member.
+ANSWER: Committee of Public Safety [or Comité de Salut Public]
+20. The protector goddess Wadjet was often shown coiled on this deity’s head. For 10 points each:
+[10] Name this Egyptian creator god who was protected by Mehen against Apep during his voyage across the sky in
+the solar barge.
+ANSWER: Ra [or Re]
+[10] This god was originally also a protector of Ra, but was later syncretized with Apep after the popularization of
+the Cult of Horus, the son of the deity that this god killed.
+ANSWER: Set [or Seth; or Setesh; or Sutekh; or Setekh; or Suty]
+[10] Set killed this god, his brother, and cut his body into fourteen pieces. This god’s wife, Isis, later reassembled
+him, and he became the god of the dead.
+ANSWER: Osiris [or Asari; or Wesir]
+Extra. One novel in this language includes a squire who rides on a donkey named Dapple. For 10 points each:
+[10] Name this language that Miguel Cervantes used to write about the knight-errant Don Quixote.
+ANSWER: Spanish [or Español; or Castillian; or Castellano]
+[10] Don Quixote’s inspiration is this alleged princess who in actuality is a simple peasant named Aldonza Lorenzo.
+ANSWER: Dulcinea del Toboso [accept either underlined part]
+[10] This twentieth-century Spanish writer wrote the poem “Lament for the Death of a Bullfighter” and the plays
+Blood Wedding, Yerma, and The House of Bernarda Alba.
+ANSWER: Federico García Lorca [or Federico del Sagrado Corazón de Jesús García Lorca]
+
+

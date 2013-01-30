@@ -1,34 +1,33 @@
-var scores = [0, 0],
+/*var scores = [0, 0],
   bteam = true,
   qnum = 0,
   n = 0,
   fin = true;
-;
+*/
 
-$.ajax({
-  url: '/json',
-}).done(function(json){
-  it = JSON.parse(json);
-});
+var team1 = new Team(),
+  team2 = new Team(),
+  bteam = true,
+  qnum = 0;
 
 function handle(keyc){
   console.log(keyc);
   switch(keyc){
     //Team 1 +5
     case 87:
-      scores[0] += 5;
+      team1.score += 5;
       break;
     //Team 1 -5
     case 83:
-      scores[0] -= 5;
+      team1.score -= 5;
       break;
     //Team 2 +5
     case 38:
-      scores[1] += 5;
+      team2.score += 5;
       break;
     // Team 2 -5
     case 40:
-      scores[1] -= 5;
+      team2.score -= 5;
       break;
     // Switch LASA Teams
     case 79:
@@ -37,16 +36,19 @@ function handle(keyc){
       break;
     // Start next tossup
     case 84:
-      text = it[qnum].split(' ');
+      $.ajax({
+        async: false,
+        url: '/'+(qnum+1),
+        type: 'GET' 
+      }).done(function(data){
+        text = new Reader(data);
+      });
       qnum++;
       $('#text').text('');
-      n = 0;
       break;
     // Next word 
     case 78:
-      if(!text[n]) { break; }
-      $('#text').text($('#text').text() +' '+  text[n]); 
-      n++;
+      $('#text').text(text.getCurtext()); 
       break;
     /* Pause next tossup
     case 80:
@@ -54,16 +56,15 @@ function handle(keyc){
       break;*/
     // Finish current tossup
     case 70:
-      $('#text').text(text.join(' '));
+      $('#text').text(text.all());
       break;
   }
   update();
 }
 
-
 function update(){
-  $('#score1').text(scores[0]);
-  $('#score2').text(scores[1]);
+  $('#score1').text(team1.score);
+  $('#score2').text(team2.score);
 }
 
 window.onkeyup = function(e){
